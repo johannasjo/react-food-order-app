@@ -1,6 +1,7 @@
+import { Fragment } from "react";
+
 import MealsSummary from "./MealsSummary";
 import AvailableMeals from "./AvailableMeals";
-import { Fragment } from "react";
 
 const Meals = () => {
   return (
@@ -12,3 +13,4 @@ const Meals = () => {
 };
 
 export default Meals;
+// i;
